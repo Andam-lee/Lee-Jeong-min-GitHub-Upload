@@ -1,0 +1,6 @@
+{
+  "name": "GitPic - GitHub 사진 업로더 & Permalink 생성기",
+  "description": "포트폴리오 전용 2000px 리사이즈 및 원본 사진을 내 GitHub 리포지토리에 자동 업로드하고 고유 Permalink를 생성해주는 도구",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
